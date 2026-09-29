@@ -58,5 +58,61 @@
 //     c++;
 // }
 // Console.WriteLine(c);
+// string answer;
+// do
+// {
+//     Console.WriteLine("Введите дату посещения (например 01.09)");
+//     string date = Console.ReadLine();
+//     Console.WriteLine($"Запись добавлена: {date}");
+//     Console.Write("Добавить еще одну запись? (да/нет)");
+//     answer = Console.ReadLine();
+// } while (answer == "да");
+// Console.WriteLine("Дневник сохранен");
 
-
+//задача А
+// int i = 0;
+// int N = int.Parse(Console.ReadLine());
+// while (i <= N+1)
+// {
+//     Console.WriteLine($"{i} * {N} = {i * N}");
+//     i++;
+// }
+//Задача Б
+// int d = 0;
+// string name = Console.ReadLine();
+// while (name != "конец")
+// {
+//     d++;
+//     name = Console.ReadLine();
+// }
+// Console.WriteLine(d);
+// Console.Write("Введите свою фамилию: ");
+// string surname = Console.ReadLine()!.Trim();
+// if (string.IsNullOrEmpty(surname)) {
+// Console.WriteLine("Фамилия не введена. Завершение работы.");
+// return;
+// }
+// Random rnd = new(surname.GetHashCode() + DateTime.Now.DayOfYear);
+// var assigned = Enumerable.Range(1, 10)
+// .OrderBy(_ => rnd.Next())
+// .Take(2)
+// .OrderBy(x => x)
+// .ToList();
+// Console.WriteLine($"Задачи: №{assigned[0]} и №{assigned[1]}");
+//Вариант 1
+// int N = int.Parse(Console.ReadLine());
+// while (N >= 1)
+// {
+//     Console.WriteLine(N);
+//     N = N - 1;
+// }
+// Console.WriteLine("Старт!");
+//Вариант 6
+int count = 0;
+int s = int.Parse(Console.ReadLine());
+while (s != 0)
+{
+    s = s / 10;
+    count++;
+}
+Console.WriteLine(count);
