@@ -1,0 +1,15 @@
+C:\Users\Student_01\Documents\lab08-kolpakov\bin\Debug\net10.0\lab08-kolpakov.exe
+C:\Users\Student_01\Documents\lab08-kolpakov\bin\Debug\net10.0\lab08-kolpakov.deps.json
+C:\Users\Student_01\Documents\lab08-kolpakov\bin\Debug\net10.0\lab08-kolpakov.runtimeconfig.json
+C:\Users\Student_01\Documents\lab08-kolpakov\bin\Debug\net10.0\lab08-kolpakov.dll
+C:\Users\Student_01\Documents\lab08-kolpakov\bin\Debug\net10.0\lab08-kolpakov.pdb
+C:\Users\Student_01\Documents\lab08-kolpakov\obj\Debug\net10.0\lab08-kolpakov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_01\Documents\lab08-kolpakov\obj\Debug\net10.0\lab08-kolpakov.AssemblyInfoInputs.cache
+C:\Users\Student_01\Documents\lab08-kolpakov\obj\Debug\net10.0\lab08-kolpakov.AssemblyInfo.cs
+C:\Users\Student_01\Documents\lab08-kolpakov\obj\Debug\net10.0\lab08-kolpakov.csproj.CoreCompileInputs.cache
+C:\Users\Student_01\Documents\lab08-kolpakov\obj\Debug\net10.0\lab08-kolpakov.sourcelink.json
+C:\Users\Student_01\Documents\lab08-kolpakov\obj\Debug\net10.0\lab08-kolpakov.dll
+C:\Users\Student_01\Documents\lab08-kolpakov\obj\Debug\net10.0\refint\lab08-kolpakov.dll
+C:\Users\Student_01\Documents\lab08-kolpakov\obj\Debug\net10.0\lab08-kolpakov.pdb
+C:\Users\Student_01\Documents\lab08-kolpakov\obj\Debug\net10.0\lab08-kolpakov.genruntimeconfig.cache
+C:\Users\Student_01\Documents\lab08-kolpakov\obj\Debug\net10.0\ref\lab08-kolpakov.dll
